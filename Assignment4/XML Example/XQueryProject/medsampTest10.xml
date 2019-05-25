@@ -1,0 +1,1484 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE MedlineCitationSet PUBLIC "-//NLM//DTD Medline Citation, 1st January, 2014//EN"
+                                    "http://www.nlm.nih.gov/databases/dtd/nlmmedlinecitationset_140101.dtd">
+<MedlineCitationSet>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">23930790</PMID>
+<DateCreated>
+<Year>2013</Year>
+<Month>08</Month>
+<Day>12</Day>
+</DateCreated>
+<DateCompleted>
+<Year>2013</Year>
+<Month>11</Month>
+<Day>06</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2013</Year>
+<Month>11</Month>
+<Day>21</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">1933-8244</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>69</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>2014</Year>
+</PubDate>
+</JournalIssue>
+<Title>Archives of environmental &amp; occupational health</Title>
+<ISOAbbreviation>Arch Environ Occup Health</ISOAbbreviation>
+</Journal>
+<ArticleTitle>From reactive "level of concern" to proactive on lead.</ArticleTitle>
+<Pagination>
+<MedlinePgn>1-2</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1080/19338244.2014.811994</ELocationID>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Guidotti</LastName>
+<ForeName>Tee L</ForeName>
+<Initials>TL</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Editorial</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Arch Environ Occup Health</MedlineTA>
+<NlmUniqueID>101282564</NlmUniqueID>
+<ISSNLinking>1933-8244</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>2P299V784P</RegistryNumber>
+<NameOfSubstance>Lead</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Centers for Disease Control and Prevention (U.S.)</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Child</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Environmental Exposure</DescriptorName>
+<QualifierName MajorTopicYN="N">adverse effects</QualifierName>
+<QualifierName MajorTopicYN="N">analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Lead</DescriptorName>
+<QualifierName MajorTopicYN="N">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Lead Poisoning</DescriptorName>
+<QualifierName MajorTopicYN="N">blood</QualifierName>
+<QualifierName MajorTopicYN="Y">diagnosis</QualifierName>
+<QualifierName MajorTopicYN="N">epidemiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Terminology as Topic</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" Type="Geographic">United States</DescriptorName>
+<QualifierName MajorTopicYN="N">epidemiology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">23930791</PMID>
+<DateCreated>
+<Year>2013</Year>
+<Month>08</Month>
+<Day>12</Day>
+</DateCreated>
+<DateCompleted>
+<Year>2013</Year>
+<Month>11</Month>
+<Day>06</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2013</Year>
+<Month>11</Month>
+<Day>07</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">1933-8244</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>69</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>2014</Year>
+</PubDate>
+</JournalIssue>
+<Title>Archives of environmental &amp; occupational health</Title>
+<ISOAbbreviation>Arch Environ Occup Health</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Agricultural workers and urinary bladder cancer risk in Egypt.</ArticleTitle>
+<Pagination>
+<MedlinePgn>3-10</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1080/19338244.2012.719556</ELocationID>
+<Abstract>
+<AbstractText>The authors examined the associations between farming and the risk for squamous cell (SCC) or urothelial cell (UC) carcinoma of the urinary bladder among Egyptians. The authors used data from a multicenter case-control study (1,525 male and 315 female cases, and 2,069 male and 547 female age- and residence-matched, population-based controls) to calculate adjusted odds ratios (AORs) and 95% confidence intervals (CIs). Men in farming and who never smoked had increased risk for either SCC or UC (AOR [95% CI]: 4.65 [2.59-8.36] and 6.22 [3.82-10.15], respectively). If they ever smoked, their risks were 2.27 (1.75-2.95) and 1.93 (1.58-2.35), respectively. Women in farmer households were at increased risk for SCC (1.40 [0.93-2.09] and UC [1.25 (0.82-1.89]), although not statistically significant. Occupational and environmental exposures to farming increased the risk for bladder cancer among Egyptians.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Amr</LastName>
+<ForeName>Sania</ForeName>
+<Initials>S</Initials>
+<Affiliation>Department of Epidemiology and Public Health, University of Maryland School of Medicine, Baltimore, MD 21201, USA. samr@epi.umaryland.edu</Affiliation>
+</Author>
+<Author ValidYN="Y">
+<LastName>Dawson</LastName>
+<ForeName>Rebecca</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Saleh</LastName>
+<ForeName>Doa'a A</ForeName>
+<Initials>DA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Magder</LastName>
+<ForeName>Laurence S</ForeName>
+<Initials>LS</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Mikhail</LastName>
+<ForeName>Nabiel N</ForeName>
+<Initials>NN</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>St George</LastName>
+<ForeName>Diane Marie</ForeName>
+<Initials>DM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Squibb</LastName>
+<ForeName>Katherine</ForeName>
+<Initials>K</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Khaled</LastName>
+<ForeName>Hussein</ForeName>
+<Initials>H</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Loffredo</LastName>
+<ForeName>Christopher A</ForeName>
+<Initials>CA</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>R01-CA115618</GrantID>
+<Acronym>CA</Acronym>
+<Agency>NCI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+<PublicationType>Multicenter Study</PublicationType>
+<PublicationType>Research Support, N.I.H., Extramural</PublicationType>
+<PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Arch Environ Occup Health</MedlineTA>
+<NlmUniqueID>101282564</NlmUniqueID>
+<ISSNLinking>1933-8244</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Agricultural Workers' Diseases</DescriptorName>
+<QualifierName MajorTopicYN="Y">epidemiology</QualifierName>
+<QualifierName MajorTopicYN="N">etiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Carcinoma</DescriptorName>
+<QualifierName MajorTopicYN="N">epidemiology</QualifierName>
+<QualifierName MajorTopicYN="N">etiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Case-Control Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Chi-Square Distribution</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" Type="Geographic">Egypt</DescriptorName>
+<QualifierName MajorTopicYN="N">epidemiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Logistic Models</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Neoplasms, Squamous Cell</DescriptorName>
+<QualifierName MajorTopicYN="N">epidemiology</QualifierName>
+<QualifierName MajorTopicYN="N">etiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Occupational Exposure</DescriptorName>
+<QualifierName MajorTopicYN="N">adverse effects</QualifierName>
+<QualifierName MajorTopicYN="N">statistics &amp; numerical data</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Odds Ratio</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Risk Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Smoking</DescriptorName>
+<QualifierName MajorTopicYN="N">adverse effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Urinary Bladder Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="Y">epidemiology</QualifierName>
+<QualifierName MajorTopicYN="N">etiology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+<OtherID Source="NLM">NIHMS509676 [Available on 01/01/15]</OtherID>
+<OtherID Source="NLM">PMC3819117 [Available on 01/01/15]</OtherID>
+</MedlineCitation>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">23930792</PMID>
+<DateCreated>
+<Year>2013</Year>
+<Month>08</Month>
+<Day>12</Day>
+</DateCreated>
+<DateCompleted>
+<Year>2013</Year>
+<Month>11</Month>
+<Day>06</Day>
+</DateCompleted>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">1933-8244</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>69</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>2014</Year>
+</PubDate>
+</JournalIssue>
+<Title>Archives of environmental &amp; occupational health</Title>
+<ISOAbbreviation>Arch Environ Occup Health</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Survey on radiation safety management (RSM) among Korean radiation workers who operate radiation generators or handle radioactive isotopes.</ArticleTitle>
+<Pagination>
+<MedlinePgn>11-22</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1080/19338244.2012.701250</ELocationID>
+<Abstract>
+<AbstractText>This study examined the knowledge, attitudes, and behaviors of radiation workers to radiation safety management (RSM) using survey questionnaires. Radiation workers are those who handle radiation generators, radioactive isotopes, and other radioactive materials for industrial uses. The survey was distributed to 861 radiation workers between 1 August to 5 September 2011. A knowledge of, awareness of, attitude toward, and behaviors related to RSM were analyzed by comparing the means and standard deviations. Both the knowledge and awareness of RSM among radiation workers were high. Although all questions about the awareness of RSM were answered correctly, there were also many negative responses. All questions regarding the attitude of radiation workers toward RSM were answered correctly, and their attitude toward and awareness of RSM were high. Overall, the results demonstrated that safety management is not taken seriously in many cases, highlighting the need for proper education in the future to raise awareness among radiation workers. Furthermore, it is important to establish a foundation for the efficient use of radiation based on the continuous management of radiation workers.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Ryu</LastName>
+<ForeName>Young-Hwan</ForeName>
+<Initials>YH</Initials>
+<Affiliation>Department of Radiology, Seoul Medical Center, Seoul, Republic of Korea.</Affiliation>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cho</LastName>
+<ForeName>Jae-Hwan</ForeName>
+<Initials>JH</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Dong</LastName>
+<ForeName>Kyung-Rae</ForeName>
+<Initials>KR</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Chung</LastName>
+<ForeName>Woon-Kwan</ForeName>
+<Initials>WK</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lee</LastName>
+<ForeName>Jong-Woong</ForeName>
+<Initials>JW</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Choi</LastName>
+<ForeName>Eun-Jin</ForeName>
+<Initials>EJ</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Arch Environ Occup Health</MedlineTA>
+<NlmUniqueID>101282564</NlmUniqueID>
+<ISSNLinking>1933-8244</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Radioisotopes</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Data Collection</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Educational Status</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Health Knowledge, Attitudes, Practice</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Occupational Exposure</DescriptorName>
+<QualifierName MajorTopicYN="Y">prevention &amp; control</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Questionnaires</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Radiation Protection</DescriptorName>
+<QualifierName MajorTopicYN="Y">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Radioisotopes</DescriptorName>
+<QualifierName MajorTopicYN="Y">adverse effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Radionuclide Generators</DescriptorName>
+<QualifierName MajorTopicYN="N">standards</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" Type="Geographic">Republic of Korea</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Safety Management</DescriptorName>
+<QualifierName MajorTopicYN="Y">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Young Adult</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">23930793</PMID>
+<DateCreated>
+<Year>2013</Year>
+<Month>08</Month>
+<Day>12</Day>
+</DateCreated>
+<DateCompleted>
+<Year>2013</Year>
+<Month>11</Month>
+<Day>06</Day>
+</DateCompleted>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">1933-8244</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>69</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>2014</Year>
+</PubDate>
+</JournalIssue>
+<Title>Archives of environmental &amp; occupational health</Title>
+<ISOAbbreviation>Arch Environ Occup Health</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Employment type, workplace interpersonal conflict, and insomnia: a cross-sectional study of 37,646 employees in Japan.</ArticleTitle>
+<Pagination>
+<MedlinePgn>23-32</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1080/19338244.2012.713040</ELocationID>
+<Abstract>
+<AbstractText>This study explored whether workplace interpersonal conflict (WIC) is associated with insomnia, and whether the relationship between WIC and insomnia differs across different employment groups. A total of 37,646 Japanese full-time employees participated in a cross-sectional survey. Employment types included permanent employment and 2 forms of temporary employment: direct-hire and temporary work agent (TWA). Insomnia symptoms, including difficulty initiating sleep, difficulty maintaining sleep, and early morning awakening were measured. Insomnia was defined as having experienced 1 or more of these symptoms on ≥3 nights per week over the past 12 months. Results showed that WIC was significantly associated with an increased risk of insomnia (odds ratio OR = 1.63; 95% confidence interval CI = 1.55-1.71), controlling for confounders. However, the relationship between WIC and the risk of insomnia was significantly stronger for TWAs than for permanent employees (OR = 1.97; 95% CI = 1.13-3.45). A frequent exposure to WIC may increase the risk of insomnia, particularly for TWAs.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Sakurai</LastName>
+<ForeName>Kenji</ForeName>
+<Initials>K</Initials>
+<Affiliation>School of Economics, Nihon University, Tokyo, Japan.</Affiliation>
+</Author>
+<Author ValidYN="Y">
+<LastName>Nakata</LastName>
+<ForeName>Aknori</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ikeda</LastName>
+<ForeName>Tomoko</ForeName>
+<Initials>T</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Otsuka</LastName>
+<ForeName>Yasumasa</ForeName>
+<Initials>Y</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kawahito</LastName>
+<ForeName>Junko</ForeName>
+<Initials>J</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Arch Environ Occup Health</MedlineTA>
+<NlmUniqueID>101282564</NlmUniqueID>
+<ISSNLinking>1933-8244</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Conflict (Psychology)</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Cross-Sectional Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Employment</DescriptorName>
+<QualifierName MajorTopicYN="Y">psychology</QualifierName>
+<QualifierName MajorTopicYN="N">statistics &amp; numerical data</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Interpersonal Relations</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" Type="Geographic">Japan</DescriptorName>
+<QualifierName MajorTopicYN="N">epidemiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Logistic Models</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Risk Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Sleep Initiation and Maintenance Disorders</DescriptorName>
+<QualifierName MajorTopicYN="Y">epidemiology</QualifierName>
+<QualifierName MajorTopicYN="N">etiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Workplace</DescriptorName>
+<QualifierName MajorTopicYN="Y">psychology</QualifierName>
+<QualifierName MajorTopicYN="N">statistics &amp; numerical data</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">23930794</PMID>
+<DateCreated>
+<Year>2013</Year>
+<Month>08</Month>
+<Day>12</Day>
+</DateCreated>
+<DateCompleted>
+<Year>2013</Year>
+<Month>11</Month>
+<Day>06</Day>
+</DateCompleted>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">1933-8244</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>69</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>2014</Year>
+</PubDate>
+</JournalIssue>
+<Title>Archives of environmental &amp; occupational health</Title>
+<ISOAbbreviation>Arch Environ Occup Health</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Physical therapists versus nurses in a rehabilitation hospital: comparing prevalence of work-related musculoskeletal complaints and working conditions.</ArticleTitle>
+<Pagination>
+<MedlinePgn>33-9</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1080/19338244.2012.719555</ELocationID>
+<Abstract>
+<AbstractText>The objective of this study was to investigate the prevalence and work avoidance of work-related musculoskeletal complaints and to compare patient handling tasks and psychosocial factors of physical therapists (PTs) and nurses in a rehabilitation hospital. Cross-sectional observational study was carried out using questionnaires relating to basic demographics, prevalence of musculoskeletal morbidity, workload, and job satisfaction. Comparing 26 PTs and 54 nurses, all females, lower back pain was significantly more prevalent in PTs, even after adjusting for the confounding demographic factors; PTs performed full and partial manual patient transfer, as well as trunk bending and walking assistance more frequently than the nurses and were significantly more satisfied. Unique physical load could be the main factor for the high prevalence of lower back pain in PTs. They should urgently initiate a "no-lift policy" in treatment.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Alperovitch-Najenson</LastName>
+<ForeName>D</ForeName>
+<Initials>D</Initials>
+<Affiliation>Department of Environmental and Occupational Health, Sackler Faculty of Medicine, Tel Aviv University, Tel Aviv, Israel. deboraha@post.tau.ac.il</Affiliation>
+</Author>
+<Author ValidYN="Y">
+<LastName>Treger</LastName>
+<ForeName>I</ForeName>
+<Initials>I</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kalichman</LastName>
+<ForeName>L</ForeName>
+<Initials>L</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Comparative Study</PublicationType>
+<PublicationType>Journal Article</PublicationType>
+<PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Arch Environ Occup Health</MedlineTA>
+<NlmUniqueID>101282564</NlmUniqueID>
+<ISSNLinking>1933-8244</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Cross-Sectional Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Hospitals, Special</DescriptorName>
+<QualifierName MajorTopicYN="N">manpower</QualifierName>
+<QualifierName MajorTopicYN="Y">statistics &amp; numerical data</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Job Satisfaction</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Musculoskeletal Diseases</DescriptorName>
+<QualifierName MajorTopicYN="Y">epidemiology</QualifierName>
+<QualifierName MajorTopicYN="N">etiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Occupational Diseases</DescriptorName>
+<QualifierName MajorTopicYN="Y">epidemiology</QualifierName>
+<QualifierName MajorTopicYN="N">etiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Physical Therapists</DescriptorName>
+<QualifierName MajorTopicYN="Y">statistics &amp; numerical data</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Prevalence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Psychology</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Questionnaires</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Rehabilitation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Rehabilitation Nursing</DescriptorName>
+<QualifierName MajorTopicYN="Y">statistics &amp; numerical data</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Weight-Bearing</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Workload</DescriptorName>
+<QualifierName MajorTopicYN="N">statistics &amp; numerical data</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Workplace</DescriptorName>
+<QualifierName MajorTopicYN="N">statistics &amp; numerical data</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">23930795</PMID>
+<DateCreated>
+<Year>2013</Year>
+<Month>08</Month>
+<Day>12</Day>
+</DateCreated>
+<DateCompleted>
+<Year>2013</Year>
+<Month>11</Month>
+<Day>06</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2013</Year>
+<Month>11</Month>
+<Day>21</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">1933-8244</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>69</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>2014</Year>
+</PubDate>
+</JournalIssue>
+<Title>Archives of environmental &amp; occupational health</Title>
+<ISOAbbreviation>Arch Environ Occup Health</ISOAbbreviation>
+</Journal>
+<ArticleTitle>The role of chemical interactions between thorium, cerium, and lanthanum in lymphocyte toxicity.</ArticleTitle>
+<Pagination>
+<MedlinePgn>40-5</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1080/19338244.2012.719557</ELocationID>
+<Abstract>
+<AbstractText>Thorium, cerium, and lanthanum are metals present in several types of minerals, the most common of which is monazite. Cerium and lanthanum are elements in the lanthanides series. Thorium, an actinide metal, is a hazardous element due to its radioactive characteristics. There is a lack of information describing the possible chemical interactions among these elements and the effects they may have on humans. Toxicological analyses were performed using cell viability, cell death, and DNA damage assays. Chemical interactions were evaluated based on the Loewe additivity model. The results indicate that thorium and cerium individually have no toxic effects on lymphocytes. However, thorium associated with lanthanum increases the toxicity of this element, thereby reducing the viability of lymphocytes at low concentrations of metals in the mixture.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Oliveira</LastName>
+<ForeName>Monica S</ForeName>
+<Initials>MS</Initials>
+<Affiliation>Radioprotection and Dosimetry Institute, CNEN, Rio de Janeiro, Brazil. monica@ird.gov.br</Affiliation>
+</Author>
+<Author ValidYN="Y">
+<LastName>Duarte</LastName>
+<ForeName>Isabelle M</ForeName>
+<Initials>IM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Paiva</LastName>
+<ForeName>Amanda V</ForeName>
+<Initials>AV</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Yunes</LastName>
+<ForeName>Samira N</ForeName>
+<Initials>SN</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Almeida</LastName>
+<ForeName>Carlos E</ForeName>
+<Initials>CE</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Mattos</LastName>
+<ForeName>Rita C</ForeName>
+<Initials>RC</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sarcinelli</LastName>
+<ForeName>Paula N</ForeName>
+<Initials>PN</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Arch Environ Occup Health</MedlineTA>
+<NlmUniqueID>101282564</NlmUniqueID>
+<ISSNLinking>1933-8244</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Thorium Compounds</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>13823-29-5</RegistryNumber>
+<NameOfSubstance>thorium nitrate</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>30K4522N6T</RegistryNumber>
+<NameOfSubstance>Cerium</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>33A856C3T7</RegistryNumber>
+<NameOfSubstance>lanthanide nitrate</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>60YU5MIG9W</RegistryNumber>
+<NameOfSubstance>Thorium</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>6I3K30563S</RegistryNumber>
+<NameOfSubstance>Lanthanum</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Apoptosis</DescriptorName>
+<QualifierName MajorTopicYN="N">drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Cell Survival</DescriptorName>
+<QualifierName MajorTopicYN="N">drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Cerium</DescriptorName>
+<QualifierName MajorTopicYN="Y">toxicity</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">DNA Damage</DescriptorName>
+<QualifierName MajorTopicYN="N">drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Dose-Response Relationship, Drug</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Drug Synergism</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Jurkat Cells</DescriptorName>
+<QualifierName MajorTopicYN="N">drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Lanthanum</DescriptorName>
+<QualifierName MajorTopicYN="Y">toxicity</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Lymphocytes</DescriptorName>
+<QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Thorium</DescriptorName>
+<QualifierName MajorTopicYN="Y">toxicity</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Thorium Compounds</DescriptorName>
+<QualifierName MajorTopicYN="N">toxicity</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">23930796</PMID>
+<DateCreated>
+<Year>2013</Year>
+<Month>08</Month>
+<Day>12</Day>
+</DateCreated>
+<DateCompleted>
+<Year>2013</Year>
+<Month>11</Month>
+<Day>06</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2013</Year>
+<Month>11</Month>
+<Day>21</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">1933-8244</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>69</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>2014</Year>
+</PubDate>
+</JournalIssue>
+<Title>Archives of environmental &amp; occupational health</Title>
+<ISOAbbreviation>Arch Environ Occup Health</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Associations between hair manganese levels and cognitive, language, and motor development in preschool children from Montevideo, Uruguay.</ArticleTitle>
+<Pagination>
+<MedlinePgn>46-54</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1080/19338244.2012.725229</ELocationID>
+<Abstract>
+<AbstractText>Environmental manganese (Mn) exposure in childhood has been associated with developmental deficits. This study investigated associations between low-level Mn exposure and developmental scores in children aged 14-45 months. Children's hair samples (n = 60) were analyzed for Mn and lead (Pb) using inductively coupled plasma mass spectrometry (ICP-MS). Children were assessed with the Bayley Scales of Infant Development III (BSID). Mean hair Mn and Pb concentrations were 0.98 ± 0.74 and 10.1 ± 10.5 μg/g, respectively. Unadjusted inverse associations were seen between Mn and BSID subscales, with girls having lower scores related to Mn than boys. No significant associations remained in covariate-adjusted models, although when stratified by sex boys had a positive association between hair Mn levels and language scores. This study does not show clear evidence of an association between hair Mn concentrations and children's developmental scores in a region of low-level Mn exposure.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Rink</LastName>
+<ForeName>Stephanie M</ForeName>
+<Initials>SM</Initials>
+<Affiliation>Department of Nutritional Sciences, Pennsylvania State University, University Park, PA 16802, USA.</Affiliation>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ardoino</LastName>
+<ForeName>Graciela</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Queirolo</LastName>
+<ForeName>Elena I</ForeName>
+<Initials>EI</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cicariello</LastName>
+<ForeName>Daniela</ForeName>
+<Initials>D</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Mañay</LastName>
+<ForeName>Nelly</ForeName>
+<Initials>N</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kordas</LastName>
+<ForeName>Katarzyna</ForeName>
+<Initials>K</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+<PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Arch Environ Occup Health</MedlineTA>
+<NlmUniqueID>101282564</NlmUniqueID>
+<ISSNLinking>1933-8244</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>42Z2K6ZL8P</RegistryNumber>
+<NameOfSubstance>Manganese</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Child Development</DescriptorName>
+<QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Child, Preschool</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Cognition</DescriptorName>
+<QualifierName MajorTopicYN="N">drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Environmental Exposure</DescriptorName>
+<QualifierName MajorTopicYN="N">adverse effects</QualifierName>
+<QualifierName MajorTopicYN="N">analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Hair</DescriptorName>
+<QualifierName MajorTopicYN="Y">chemistry</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Infant</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Language Development</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Manganese</DescriptorName>
+<QualifierName MajorTopicYN="Y">analysis</QualifierName>
+<QualifierName MajorTopicYN="N">toxicity</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Neuropsychological Tests</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Psychomotor Performance</DescriptorName>
+<QualifierName MajorTopicYN="N">drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Sex Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" Type="Geographic">Uruguay</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">23930797</PMID>
+<DateCreated>
+<Year>2013</Year>
+<Month>08</Month>
+<Day>12</Day>
+</DateCreated>
+<DateCompleted>
+<Year>2013</Year>
+<Month>11</Month>
+<Day>06</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2013</Year>
+<Month>11</Month>
+<Day>21</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">1933-8244</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>69</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>2014</Year>
+</PubDate>
+</JournalIssue>
+<Title>Archives of environmental &amp; occupational health</Title>
+<ISOAbbreviation>Arch Environ Occup Health</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Effect of shift work on the development of metabolic syndrome after 3 years in Japanese male workers.</ArticleTitle>
+<Pagination>
+<MedlinePgn>55-61</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1080/19338244.2012.732123</ELocationID>
+<Abstract>
+<AbstractText>A 3-year follow-up study of an occupational cohort was conducted to clarify the effect of the type of shift work on the risk of development of metabolic syndrome (MetS). The subjects were 1,677 Japanese male employees aged 36 to 57. Age, each component of MetS, serum uric acid, serum insulin, lifestyle factors, and occupational position were used for the analyses. The odds ratios (95% confidence intervals) of 2-shift work (n = 686) and 3-shift work (n = 99) against daytime work (n = 868) for the development of MetS, as defined by the National Cholesterol Education Program, were 1.43 (1.05, 1.95) and 0.72 (0.37, 1.41), respectively. When Japanese criteria were adopted for defining MetS, the corresponding odds ratios (95% confidence intervals) were 1.88 (1.29, 2.74) and 0.87 (0.39, 1.97), respectively. The results of the analyses suggested that 2-shift work was a risk factor for the development of metabolic syndrome.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Kawada</LastName>
+<ForeName>Tomoyuki</ForeName>
+<Initials>T</Initials>
+<Affiliation>Department of Hygiene and Public Health, Nippon Medical School, Tokyo, Japan. kawada@nms.ac.jp</Affiliation>
+</Author>
+<Author ValidYN="Y">
+<LastName>Otsuka</LastName>
+<ForeName>Toshiaki</ForeName>
+<Initials>T</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+<PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Arch Environ Occup Health</MedlineTA>
+<NlmUniqueID>101282564</NlmUniqueID>
+<ISSNLinking>1933-8244</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Insulin</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>268B43MJ25</RegistryNumber>
+<NameOfSubstance>Uric Acid</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Follow-Up Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Insulin</DescriptorName>
+<QualifierName MajorTopicYN="N">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" Type="Geographic">Japan</DescriptorName>
+<QualifierName MajorTopicYN="N">epidemiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Life Style</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Metabolic Syndrome X</DescriptorName>
+<QualifierName MajorTopicYN="N">epidemiology</QualifierName>
+<QualifierName MajorTopicYN="Y">etiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Occupational Diseases</DescriptorName>
+<QualifierName MajorTopicYN="N">epidemiology</QualifierName>
+<QualifierName MajorTopicYN="Y">etiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Odds Ratio</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Risk Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Uric Acid</DescriptorName>
+<QualifierName MajorTopicYN="N">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Work Schedule Tolerance</DescriptorName>
+<QualifierName MajorTopicYN="Y">physiology</QualifierName>
+<QualifierName MajorTopicYN="N">psychology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">23930799</PMID>
+<DateCreated>
+<Year>2013</Year>
+<Month>08</Month>
+<Day>12</Day>
+</DateCreated>
+<DateCompleted>
+<Year>2013</Year>
+<Month>11</Month>
+<Day>06</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2013</Year>
+<Month>11</Month>
+<Day>21</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">1933-8244</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>69</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>2014</Year>
+</PubDate>
+</JournalIssue>
+<Title>Archives of environmental &amp; occupational health</Title>
+<ISOAbbreviation>Arch Environ Occup Health</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Toxicity and poisoning: the example of lead.</ArticleTitle>
+<Pagination>
+<MedlinePgn>64-5</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1080/19338244.2014.811995</ELocationID>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Guidotti</LastName>
+<ForeName>Tee L</ForeName>
+<Initials>TL</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Editorial</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Arch Environ Occup Health</MedlineTA>
+<NlmUniqueID>101282564</NlmUniqueID>
+<ISSNLinking>1933-8244</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>2P299V784P</RegistryNumber>
+<NameOfSubstance>Lead</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Child, Preschool</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Drug-Related Side Effects and Adverse Reactions</DescriptorName>
+<QualifierName MajorTopicYN="Y">diagnosis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Environmental Exposure</DescriptorName>
+<QualifierName MajorTopicYN="N">adverse effects</QualifierName>
+<QualifierName MajorTopicYN="N">statistics &amp; numerical data</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Lead</DescriptorName>
+<QualifierName MajorTopicYN="N">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Lead Poisoning</DescriptorName>
+<QualifierName MajorTopicYN="N">blood</QualifierName>
+<QualifierName MajorTopicYN="Y">diagnosis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Poisoning</DescriptorName>
+<QualifierName MajorTopicYN="Y">diagnosis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Public Health</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Terminology as Topic</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">23924634</PMID>
+<DateCreated>
+<Year>2013</Year>
+<Month>08</Month>
+<Day>28</Day>
+</DateCreated>
+<DateCompleted>
+<Year>2013</Year>
+<Month>11</Month>
+<Day>04</Day>
+</DateCompleted>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1477-9129</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>140</Volume>
+<Issue>18</Issue>
+<PubDate>
+<Year>2013</Year>
+<Month>Sep</Month>
+</PubDate>
+</JournalIssue>
+<Title>Development (Cambridge, England)</Title>
+<ISOAbbreviation>Development</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Transmembrane protein 88: a Wnt regulatory protein that specifies cardiomyocyte development.</ArticleTitle>
+<Pagination>
+<MedlinePgn>3799-808</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1242/dev.094789</ELocationID>
+<Abstract>
+<AbstractText>Genetic regulation of the cell fate transition from lateral plate mesoderm to the specification of cardiomyocytes requires suppression of Wnt/β-catenin signaling, but the mechanism for this is not well understood. By analyzing gene expression and chromatin dynamics during directed differentiation of human embryonic stem cells (hESCs), we identified a suppressor of Wnt/β-catenin signaling, transmembrane protein 88 (TMEM88), as a potential regulator of cardiovascular progenitor cell (CVP) specification. During the transition from mesoderm to the CVP, TMEM88 has a chromatin signature of genes that mediate cell fate decisions, and its expression is highly upregulated in advance of key cardiac transcription factors in vitro and in vivo. In early zebrafish embryos, tmem88a is expressed broadly in the lateral plate mesoderm, including the bilateral heart fields. Short hairpin RNA targeting of TMEM88 during hESC cardiac differentiation increases Wnt/β-catenin signaling, confirming its role as a suppressor of this pathway. TMEM88 knockdown has no effect on NKX2.5 or GATA4 expression, but 80% of genes most highly induced during CVP development have reduced expression, suggesting adoption of a new cell fate. In support of this, analysis of later stage cell differentiation showed that TMEM88 knockdown inhibits cardiomyocyte differentiation and promotes endothelial differentiation. Taken together, TMEM88 is crucial for heart development and acts downstream of GATA factors in the pre-cardiac mesoderm to specify lineage commitment of cardiomyocyte development through inhibition of Wnt/β-catenin signaling. </AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Palpant</LastName>
+<ForeName>Nathan J</ForeName>
+<Initials>NJ</Initials>
+<Affiliation>Department of Pathology, University of Washington, Seattle, WA 98195-7470, USA.</Affiliation>
+</Author>
+<Author ValidYN="Y">
+<LastName>Pabon</LastName>
+<ForeName>Lil</ForeName>
+<Initials>L</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rabinowitz</LastName>
+<ForeName>Jeremy S</ForeName>
+<Initials>JS</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hadland</LastName>
+<ForeName>Brandon K</ForeName>
+<Initials>BK</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Stoick-Cooper</LastName>
+<ForeName>Cristi L</ForeName>
+<Initials>CL</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Paige</LastName>
+<ForeName>Sharon L</ForeName>
+<Initials>SL</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bernstein</LastName>
+<ForeName>Irwin D</ForeName>
+<Initials>ID</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Moon</LastName>
+<ForeName>Randall T</ForeName>
+<Initials>RT</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Murry</LastName>
+<ForeName>Charles E</ForeName>
+<Initials>CE</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>F30 HL095343</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>P01 GM081719</GrantID>
+<Acronym>GM</Acronym>
+<Agency>NIGMS NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>P01 HL094374</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01 HL084642</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>T32 HL007312</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 HL100405</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01HL100395</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<Agency>Howard Hughes Medical Institute</Agency>
+<Country>United States</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+<PublicationType>Research Support, N.I.H., Extramural</PublicationType>
+<PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2013</Year>
+<Month>08</Month>
+<Day>07</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Development</MedlineTA>
+<NlmUniqueID>8701744</NlmUniqueID>
+<ISSNLinking>0950-1991</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Membrane Proteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>TMEM88 protein, human</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Tmem88a protein, zebrafish</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Wnt Proteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Zebrafish Proteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>beta Catenin</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Cell Lineage</DescriptorName>
+<QualifierName MajorTopicYN="N">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Down-Regulation</DescriptorName>
+<QualifierName MajorTopicYN="N">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Embryo, Nonmammalian</DescriptorName>
+<QualifierName MajorTopicYN="N">cytology</QualifierName>
+<QualifierName MajorTopicYN="N">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Endothelial Cells</DescriptorName>
+<QualifierName MajorTopicYN="N">cytology</QualifierName>
+<QualifierName MajorTopicYN="N">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Gene Expression Regulation, Developmental</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Gene Knockdown Techniques</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Membrane Proteins</DescriptorName>
+<QualifierName MajorTopicYN="N">genetics</QualifierName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Mice</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Models, Biological</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Myocytes, Cardiac</DescriptorName>
+<QualifierName MajorTopicYN="Y">cytology</QualifierName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Signal Transduction</DescriptorName>
+<QualifierName MajorTopicYN="N">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Stem Cells</DescriptorName>
+<QualifierName MajorTopicYN="N">cytology</QualifierName>
+<QualifierName MajorTopicYN="N">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Up-Regulation</DescriptorName>
+<QualifierName MajorTopicYN="N">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Wnt Proteins</DescriptorName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Zebrafish</DescriptorName>
+<QualifierName MajorTopicYN="Y">embryology</QualifierName>
+<QualifierName MajorTopicYN="N">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Zebrafish Proteins</DescriptorName>
+<QualifierName MajorTopicYN="N">genetics</QualifierName>
+<QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">beta Catenin</DescriptorName>
+<QualifierName MajorTopicYN="N">metabolism</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+<OtherID Source="NLM">PMC3754478 [Available on 03/15/14]</OtherID>
+<KeywordList Owner="NOTNLM">
+<Keyword MajorTopicYN="N">Chromatin</Keyword>
+<Keyword MajorTopicYN="N">Gene</Keyword>
+<Keyword MajorTopicYN="N">Heart development</Keyword>
+<Keyword MajorTopicYN="N">Human embryonic stem cell</Keyword>
+<Keyword MajorTopicYN="N">Mesoderm</Keyword>
+<Keyword MajorTopicYN="N">TMEM88</Keyword>
+<Keyword MajorTopicYN="N">Wnt signaling</Keyword>
+<Keyword MajorTopicYN="N">Zebrafish</Keyword>
+</KeywordList>
+</MedlineCitation>
+</MedlineCitationSet>
